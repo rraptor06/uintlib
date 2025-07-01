@@ -1,2 +1,2 @@
 # uintlib
-A Python package to easily use uints in Python.
+A Python package to easily use uints/ints in Python.
