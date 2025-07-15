@@ -44,7 +44,7 @@ You can install from PyPI (once published) using:
 ## Usage
 
 ```python
-from uintlib import UInt8, Int16, UInt32, Int64
+from uintlib.uint import UInt8, Int16, UInt32, Int64
 
 a = UInt8(250)
 b = UInt8(10)
